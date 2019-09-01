@@ -1,0 +1,7 @@
+Batter:
+    type: item
+    debug: false
+    material: i@SUGAR
+    mechanisms:
+        custom_model_data: 4
+    name: "<&f>Batter"
