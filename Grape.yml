@@ -1,0 +1,7 @@
+Grape:
+    type: item
+    debug: false
+    material: i@SWEETBERRY
+    mechanisms:
+        custom_model_data: 4
+    name: "<&f>Grape"
