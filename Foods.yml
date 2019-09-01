@@ -5,3 +5,10 @@ CocoaPowder:
     mechanisms:
         custom_model_data: 1
     name: "<&f>Cocoa Powder"
+Flour:
+    type: item
+    debug: false
+    material: i@SUGAR
+    mechanisms:
+        custom_model_data: 2
+    name: "<&f>Flour"
