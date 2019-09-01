@@ -1,0 +1,7 @@
+FreshWater:
+    type: item
+    debug: false
+    material: i@WATER_BUCKET
+    mechanisms:
+        custom_model_data: 1
+    name: "<&f>Fresh Water"
