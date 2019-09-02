@@ -5,3 +5,4 @@ FreshMilk:
     mechanisms:
         custom_model_data: 1
     display name: "<&f>Fresh Milk"
+    furnace_recipe: i@MILK_BUCKET
