@@ -1,0 +1,8 @@
+Cheese:
+    type: item
+    debug: false
+    material: i@Egg
+    mechanisms:
+        custom_model_data: 3
+    display name: "<&f>Cheese"
+    shapeless_recipe: "i@MixingBowl|i@Salt|i@FreshMilk"
