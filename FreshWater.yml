@@ -4,4 +4,4 @@ FreshWater:
     material: i@WATER_BUCKET
     mechanisms:
         custom_model_data: 1
-    name: "<&f>Fresh Water"
+    display name: "<&f>Fresh Water"

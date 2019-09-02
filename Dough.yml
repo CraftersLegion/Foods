@@ -4,4 +4,4 @@ Dough:
     material: i@SUGAR
     mechanisms:
         custom_model_data: 5
-    name: "<&f>Dough"
+    display name: "<&f>Dough"

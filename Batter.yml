@@ -4,4 +4,4 @@ Batter:
     material: i@SUGAR
     mechanisms:
         custom_model_data: 4
-    name: "<&f>Batter"
+    display name: "<&f>Batter"

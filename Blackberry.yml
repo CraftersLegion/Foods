@@ -4,4 +4,4 @@ Blackberry:
     material: i@SWEET_BERRIES
     mechanisms:
         custom_model_data: 1
-    name: "<&f>Blackberry"
+    display name: "<&f>Blackberry"

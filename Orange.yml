@@ -4,4 +4,4 @@ Orange:
     material: i@APPLE
     mechanisms:
         custom_model_data: 1
-    name: "<&f>Orange"
+    display name: "<&f>Orange"

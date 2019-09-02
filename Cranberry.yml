@@ -4,4 +4,4 @@ Cranberry:
     material: i@SWEET_BERRIES
     mechanisms:
         custom_model_data: 3
-    name: "<&f>Cranberry"
+    display name: "<&f>Cranberry"

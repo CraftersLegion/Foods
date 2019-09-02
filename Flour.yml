@@ -4,4 +4,4 @@ Flour:
     material: i@SUGAR
     mechanisms:
         custom_model_data: 2
-    name: "<&f>Flour"
+    display name: "<&f>Flour"

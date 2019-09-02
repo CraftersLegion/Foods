@@ -4,4 +4,4 @@ FreshMilk:
     material: i@MILK_BUCKET
     mechanisms:
         custom_model_data: 1
-    name: "<&f>Fresh Milk"
+    display name: "<&f>Fresh Milk"

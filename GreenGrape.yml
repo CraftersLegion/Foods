@@ -4,4 +4,4 @@ GreenGrape:
     material: i@SWEET_BERRIES
     mechanisms:
         custom_model_data: 5
-    name: "<&f>Green Grape"
+    display name: "<&f>Green Grape"

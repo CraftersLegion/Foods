@@ -4,4 +4,4 @@ Blueberry:
     material: i@SWEET_BERRIES
     mechanisms:
         custom_model_data: 2
-    name: "<&f>Blueberry"
+    display name: "<&f>Blueberry"
