@@ -5,3 +5,7 @@ MixingBowl:
     mechanisms:
         custom_model_data: 1
     display name: "<&f>Mixing Bowl"
+    recipe:
+    - "i@Air|i@Air|i@Air"
+    - "i@Oak_Planks|i@Stick|i@Oak_Planks"
+    - "i@Air|i@Oak_Planks|i@Air"
