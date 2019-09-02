@@ -1,0 +1,7 @@
+MortarAndPestle:
+    type: item
+    debug: false
+    material: i@BOWL
+    mechanisms:
+        custom_model_data: 2
+    display name: "<&f>Mortar & Pestle"
