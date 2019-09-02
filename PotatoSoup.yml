@@ -1,0 +1,16 @@
+ColdPotatoSoup:
+    type: item
+    debug: false
+    material: i@Beetroot_Soup
+    mechanisms:
+        custom_model_data: 1
+    display name: "<&f>Potato Soup"
+    shapeless_recipe: "i@Potato|i@Bowl|i@Stock|i@Salt"
+PotatoSoup:
+    type: item
+    debug: false
+    material: i@Beetroot_Soup
+    mechanisms:
+        custom_model_data: 1
+    display name: "<&f>Potato Soup"
+    furnace_recipe: i@ColdPotatoSoup
