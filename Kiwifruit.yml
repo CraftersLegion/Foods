@@ -1,7 +1,7 @@
-Mango:
+Kiwifruit:
     type: item
     debug: false
     material: i@APPLE
     mechanisms:
-        custom_model_data: 6
-    display name: "<&f>Mango"
+        custom_model_data: 5
+    display name: "<&f>Kiwifruit"
