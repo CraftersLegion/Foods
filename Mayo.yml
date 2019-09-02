@@ -1,0 +1,8 @@
+Mayo:
+    type: item
+    debug: false
+    material: i@Egg
+    mechanisms:
+        custom_model_data: 1
+    display name: "<&f>Mayo"
+    shapeless_recipe: "i@Juicer|i@Egg"
