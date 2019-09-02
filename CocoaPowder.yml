@@ -5,3 +5,4 @@ CocoaPowder:
     mechanisms:
         custom_model_data: 1
     display name: "<&f>Cocoa Powder"
+    shapeless_recipe: "i@MortarAndPestle|i@Cocoa_Beans"
