@@ -1,0 +1,6 @@
+Bread:
+    type: item
+    debug: false
+    material: i@Bread
+    display name: "<&f>Bread"
+    furnace_recipe: i@Dough
