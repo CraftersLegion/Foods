@@ -1,0 +1,8 @@
+Juicer:
+    type: item
+    debug: false
+    material: i@Bowl
+    mechanisms:
+        custom_model_data: 3
+    display name: "<&f>Juicer"
+    shapeless_recipe: "i@Cauldron|i@Glass_Bottle"
