@@ -1,0 +1,7 @@
+Plum:
+    type: item
+    debug: false
+    material: i@APPLE
+    mechanisms:
+        custom_model_data: 13
+    display name: "<&f>Plum"
