@@ -5,3 +5,4 @@ Salt:
     mechanisms:
         custom_model_data: 3
     display name: "<&f>Salt"
+    furnace_recipe: i@FreshWater
