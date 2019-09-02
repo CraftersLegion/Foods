@@ -1,0 +1,7 @@
+Stock:
+    type: item
+    debug: false
+    material: i@Sugar
+    mechanisms:
+        custom_model_data: 6
+    display name: "<&f>Stock"
