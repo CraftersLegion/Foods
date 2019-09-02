@@ -1,0 +1,8 @@
+HeavyCream:
+    type: item
+    debug: false
+    material: i@MILK_BUCKET
+    mechanisms:
+        custom_model_data: 2
+    display name: "<&f>Heavy Cream"
+    shapeless_recipe: "i@FreshMilk|i@MixingBowl"
