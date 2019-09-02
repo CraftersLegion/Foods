@@ -1,0 +1,8 @@
+ChickenSandwich:
+    type: item
+    debug: false
+    material: i@Bread
+    mechanisms:
+        custom_model_data: 1
+    display name: "<&f>Chicken Sandwich"
+    shapeless_recipe: "i@Bread|i@Cooked_Chicken|i@Mayo"
