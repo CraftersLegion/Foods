@@ -1,0 +1,7 @@
+Raspberry:
+    type: item
+    debug: false
+    material: i@SWEET_BERRIES
+    mechanisms:
+        custom_model_data: 7
+    display name: "<&f>Raspberry"
