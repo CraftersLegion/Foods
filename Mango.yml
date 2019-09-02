@@ -1,0 +1,7 @@
+Mango:
+    type: item
+    debug: false
+    material: i@APPLE
+    mechanisms:
+        custom_model_data: 6
+    display name: "<&f>Mango"
