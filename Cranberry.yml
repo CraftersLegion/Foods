@@ -1,7 +1,7 @@
 Cranberry:
     type: item
     debug: false
-    material: i@SWEETBERRY
+    material: i@SWEET_BERRIES
     mechanisms:
         custom_model_data: 3
     name: "<&f>Cranberry"
