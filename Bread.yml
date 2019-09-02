@@ -1,4 +1,4 @@
-Bread:
+BreadLoaf:
     type: item
     debug: false
     material: i@Bread
