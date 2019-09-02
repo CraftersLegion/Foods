@@ -1,0 +1,16 @@
+ColdVegetableSoup:
+    type: item
+    debug: false
+    material: i@Beetroot_Soup
+    mechanisms:
+        custom_model_data: 2
+    display name: "<&f>Vegetable Soup"
+    shapeless_recipe: "i@Carrot|i@Potato|i@Bowl|i@Stock|i@Salt"
+VegetableSoup:
+    type: item
+    debug: false
+    material: i@Beetroot_Soup
+    mechanisms:
+        custom_model_data: 2
+    display name: "<&f>Vegetable Soup"
+    furnace_recipe: i@ColdVegetableSoup
