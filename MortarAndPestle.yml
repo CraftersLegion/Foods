@@ -5,3 +5,7 @@ MortarAndPestle:
     mechanisms:
         custom_model_data: 2
     display name: "<&f>Mortar & Pestle"
+    recipe:
+    - "i@air|i@air|i@air"
+    - "i@cobblestone|i@stick|i@cobblestone"
+    - "i@air|i@cobblestone|i@air"
