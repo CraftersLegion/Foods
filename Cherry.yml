@@ -1,0 +1,7 @@
+Cherry:
+    type: item
+    debug: false
+    material: i@SWEET_BERRIES
+    mechanisms:
+        custom_model_data: 9
+    display name: "<&f>Cherry"
