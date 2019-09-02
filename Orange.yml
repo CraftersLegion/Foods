@@ -3,5 +3,5 @@ Orange:
     debug: false
     material: i@APPLE
     mechanisms:
-        custom_model_data: 1
+        custom_model_data: 2
     display name: "<&f>Orange"
