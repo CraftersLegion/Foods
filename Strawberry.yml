@@ -1,0 +1,7 @@
+Strawberry:
+    type: item
+    debug: false
+    material: i@SWEET_BERRIES
+    mechanisms:
+        custom_model_data: 8
+    display name: "<&f>Strawberry"
