@@ -1,0 +1,7 @@
+Banana:
+    type: item
+    debug: false
+    material: i@APPLE
+    mechanisms:
+        custom_model_data: 3
+    display name: "<&f>Banana"
