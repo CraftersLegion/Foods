@@ -1,0 +1,16 @@
+ColdCactusSoup:
+    type: item
+    debug: false
+    material: i@Beetroot_Soup
+    mechanisms:
+        custom_model_data: 3
+    display name: "<&f>Cactus Soup"
+    shapeless_recipe: "i@CactusFruit|i@Bowl|i@Stock|i@Salt"
+CactusSoup:
+    type: item
+    debug: false
+    material: i@Beetroot_Soup
+    mechanisms:
+        custom_model_data: 3
+    display name: "<&f>Cactus Soup"
+    furnace_recipe: i@ColdCactusSoup
