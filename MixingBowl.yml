@@ -1,0 +1,7 @@
+MixingBowl:
+    type: item
+    debug: false
+    material: i@BOWL
+    mechanisms:
+        custom_model_data: 1
+    display name: "<&f>Mixing Bowl"
