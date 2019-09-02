@@ -5,3 +5,4 @@ Flour:
     mechanisms:
         custom_model_data: 2
     display name: "<&f>Flour"
+    shapeless_recipe: "i@Wheat|i@MortarAndPestle"
