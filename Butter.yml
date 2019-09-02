@@ -1,0 +1,8 @@
+Butter:
+    type: item
+    debug: false
+    material: i@Egg
+    mechanisms:
+        custom_model_data: 2
+    display name: "<&f>Butter"
+    shapeless_recipe: "i@MixingBowl|i@Salt|i@HeavyCream"
