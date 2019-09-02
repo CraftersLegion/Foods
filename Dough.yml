@@ -5,3 +5,4 @@ Dough:
     mechanisms:
         custom_model_data: 5
     display name: "<&f>Dough"
+    shapeless_recipe:i@FRESH_WATER|i@SALT|i@FLOUR
