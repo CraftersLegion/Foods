@@ -5,3 +5,4 @@ Batter:
     mechanisms:
         custom_model_data: 4
     display name: "<&f>Batter"
+    shapeless_recipe: "i@Egg|i@MixingBowl|i@Flour"
