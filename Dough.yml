@@ -3,5 +3,5 @@ Dough:
     debug: false
     material: i@SUGAR
     mechanisms:
-        custom_model_data: 3
+        custom_model_data: 5
     name: "<&f>Dough"
