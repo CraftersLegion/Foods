@@ -1,0 +1,16 @@
+ColdChickenSoup:
+    type: item
+    debug: false
+    material: i@Beetroot_Soup
+    mechanisms:
+        custom_model_data: 6
+    display name: "<&f>Chicken Soup"
+    shapeless_recipe: "i@Cooked_Chicken|i@Bowl|i@Carrot|i@Stock"
+ChickenSoup:
+    type: item
+    debug: false
+    material: i@Beetroot_Soup
+    mechanisms:
+        custom_model_data: 6
+    display name: "<&f>Chicken Soup"
+    furnace_recipe: i@ColdChickenSoup
