@@ -1,0 +1,8 @@
+Gravy:
+    type: item
+    debug: false
+    material: i@Sugar
+    mechanisms:
+        custom_model_data: 7
+    display name: "<&f>Gravy"
+    shapeless_recipe: "i@Stock|i@Flour"
