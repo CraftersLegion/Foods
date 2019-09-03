@@ -1,0 +1,16 @@
+ColdPumpkinSoup:
+    type: item
+    debug: false
+    material: i@Beetroot_Soup
+    mechanisms:
+        custom_model_data: 4
+    display name: "<&f>Pumpkin Soup"
+    shapeless_recipe: "i@PumpkinSlice|i@Bowl|i@HeavyCream"
+PumpkinSoup:
+    type: item
+    debug: false
+    material: i@Beetroot_Soup
+    mechanisms:
+        custom_model_data: 4
+    display name: "<&f>Pumpkin Soup"
+    furnace_recipe: i@ColdPumpkinSoup
