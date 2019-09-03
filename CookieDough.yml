@@ -1,0 +1,8 @@
+CookieDough:
+    type: item
+    debug: false
+    material: i@Sugar
+    mechanisms:
+        custom_model_data: 5
+    display name: "<&f>Cookie Dough"
+    shapeless_recipe: "i@Dough|i@Butter"
