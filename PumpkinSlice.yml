@@ -1,0 +1,7 @@
+PumpkinSlice:
+    type: item
+    debug: false
+    material: i@Melon_Slice
+    mechanisms:
+        custom_model_data: 1
+    display name: "<&f>Pumpkin Slice"
