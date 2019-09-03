@@ -1,0 +1,16 @@
+ColdCarrotSoup:
+    type: item
+    debug: false
+    material: i@Beetroot_Soup
+    mechanisms:
+        custom_model_data: 5
+    display name: "<&f>Carrot Soup"
+    shapeless_recipe: "i@Carrot|i@Bowl|i@HeavyCream|i@Stock"
+CarrotSoup:
+    type: item
+    debug: false
+    material: i@Beetroot_Soup
+    mechanisms:
+        custom_model_data: 5
+    display name: "<&f>Carrot Soup"
+    furnace_recipe: i@ColdCarrotSoup
