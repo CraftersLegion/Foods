@@ -1,0 +1,14 @@
+Pasta:
+    type: item
+    debug: false
+    material: i@Sugar
+    mechanisms:
+        custom_model_data: 8
+    display name: "<&f>Pasta"
+    furnace_recipe: i@UncookedPasta
+UncookedPasta:
+    type: item
+    debug: false
+    material: i@Pasta
+    display name: "<&f>Uncooked Pasta"
+    shapeless_recipe: "i@Butter|i@MixingBowl|i@Dough
