@@ -11,4 +11,3 @@ UncookedPasta:
     debug: false
     material: i@Pasta
     display name: "<&f>Uncooked Pasta"
-    shapeless_recipe: "i@Butter|i@MixingBowl|i@Dough
