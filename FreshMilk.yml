@@ -6,3 +6,4 @@ FreshMilk:
         custom_model_data: 1
     display name: "<&f>Fresh Milk"
     furnace_recipe: i@MILK_BUCKET
+    description: "Please refer to https://www.havenrealms.net/wiki/items/foods/fresh-milk/ for help."
